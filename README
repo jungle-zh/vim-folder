@@ -1,5 +1,7 @@
 https://jonathanmh.com/taking-full-page-screenshots-headless-chrome/
 This is my custom ~/.vim folder
+google-chrome --headless  --disable-gpu  --screenshot  -window-size=1280,3000 https://github.com/grandyang/leetcode/issues/812
+
 
 
 required debian packages:
